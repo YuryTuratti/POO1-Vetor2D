@@ -9,8 +9,8 @@ package com.mycompany.lab01;
  * @author yuryturatti
  */
 public class Vetor2D {
-    private Double x;
-    private Double y;
+    protected Double x;
+    protected Double y;
 
     public Vetor2D(){
         x = 0.0;
